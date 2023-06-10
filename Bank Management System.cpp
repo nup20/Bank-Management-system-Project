@@ -14,6 +14,7 @@ public:
 
 Banksystem()
 {
+    
     D=0,W=0,T=0,AC=0;
     name="unknown";
     lname="unknown";
